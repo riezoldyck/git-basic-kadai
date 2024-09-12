@@ -1,0 +1,18 @@
+PS C:\Users\faire\TEST\git_challenge> git init
+Initialized empty Git repository in C:/Users/faire/TEST/git_challenge/.git/
+PS C:\Users\faire\TEST\git_challenge> git init
+Initialized empty Git repository in C:/Users/faire/TEST/git_challenge/.git/
+PS C:\Users\faire\TEST\git_challenge> git add hello_world.txt
+PS C:\Users\faire\TEST\git_challenge> git commit -m "最初のコミット"
+[main (root-commit) ed37622] 最初のコミット
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\faire\TEST\git_challenge> git commit -m "日本語訳を追記"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hello_world.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\faire\TEST\git_challenge>               
