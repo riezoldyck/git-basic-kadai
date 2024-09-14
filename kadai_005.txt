@@ -13,6 +13,8 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         modified:   hello_world.txt
+PS C:\Users\faire\TEST\git_challenge> git log --oneline
+2eeb3f9 (HEAD -> main) 日本語訳を追記
+ed37622 (origin/main) 最初のコミット
+PS C:\Users\faire\TEST\git_challenge> 
 
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\faire\TEST\git_challenge>               
